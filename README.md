@@ -111,7 +111,7 @@ The processor consists of the following major modules:
 - PC Target Adder
 - Multiplexers
 
-![System Architecture](Images/Block_diagram.png)
+![System Architecture](Images/Block_Diagram.png)
 
 ---
 
